@@ -1,0 +1,18 @@
+body {
+    background-color: yellow;
+    color: red;
+
+    font-family: Courier, monospace;
+    line-height: 1.6;
+    letter-spacing: 10px;
+}
+
+h1{
+    color: green;
+    font-family: Helvetica;
+    font-weight: 300;
+    letter-spacing: 10px;
+    font-size: 32px;
+    text-transform: uppercase;
+
+}
